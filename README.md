@@ -1,1 +1,1 @@
-# IsItAI-AI-Image-Detection-Tool
+# AI-Image-Detection-Tool
